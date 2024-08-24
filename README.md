@@ -15,4 +15,4 @@
 
 ## Note
 
-The script assumes that the input video is in the same directory as the script file. If the input video is in a different directory, you need to modify the `extractFrames` function in `script.js` to provide the correct path to the input video.
+The script assumes that the input video is in the same directory as the script file. If the input video is in a different directory, you need to modify the `extractFrames` function in `index.js` to provide the correct path to the input video.

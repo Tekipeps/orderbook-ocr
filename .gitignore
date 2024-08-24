@@ -1,0 +1,6 @@
+inputs/
+outputs/
+eng.traineddata
+output.json
+output.csv
+node_modules/

@@ -9,7 +9,7 @@
 
 ## Running
 
-1. Ensure ffmpeg is installed on your system // ffmped is used to extract frames from the input video
+1. Ensure ffmpeg is installed on your system // ffmpeg is used to extract frames from the input video
 2. Run `pnpm install` to install dependencies
 3. Run `pnpm start` to start the script
 
